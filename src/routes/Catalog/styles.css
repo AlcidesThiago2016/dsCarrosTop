@@ -1,3 +1,20 @@
-header {
-    
+.ct-catalog-main{
+   padding: 0 10px; 
 }
+
+#ct-catalog-section{
+    padding: 40px 0;
+}
+
+.ct-catalog-cards-container{
+    display: grid;
+    align-items: end;
+ }
+
+ .ct-container h5 {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: var(--ct-color-font-secondary);
+    padding-bottom: 15px;
+  }
