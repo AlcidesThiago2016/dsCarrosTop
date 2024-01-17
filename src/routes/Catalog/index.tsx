@@ -1,4 +1,5 @@
 import CardCar from "../../components/CardCar";
+import CommentCard from "../../components/CommentCard";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 
@@ -18,6 +19,7 @@ export default function Catalog(){
                        </div>
                        </section>
                 </main>
+                <CommentCard />
             <Footer />
         </>
     );
